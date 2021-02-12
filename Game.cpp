@@ -42,6 +42,8 @@ void welcome() {
 }
 void firstBox() {
 
+    cout << "\nPlease think of a number from 1-33" << endl;
+    
     cout << "     |     |     |     |" << endl;
     cout << "  " << "1" << "  |  " << "3" << "  |  " << "5" << "  |  " << "7" << "  |  " << endl;
 
